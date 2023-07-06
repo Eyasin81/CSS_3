@@ -1,0 +1,18 @@
+.padding1{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+   /* padding property */
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.padding2{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+   /* padding short code*/
+   /* top-right-button-left */
+   padding:10px 20x 30px 40px ;
+}

@@ -1,0 +1,19 @@
+
+/* Bckground-Color*/
+/*3.Background
+Lesson 3.1 - Background Color
+Lesson 3.2 - Background Image
+Lesson 3.3 - Background Repeat
+Lesson 3.4 - Background Attachment
+Lesson 3.5 - Background Shorthand
+*/
+
+body{
+    /*
+background-image:url("/img/eyasin_picture_\ copy.jpg");
+background-repeat:no-repeat;
+background-position:50% 20%;
+background-attachment:local;background-size: cover;*/
+
+background:url("/img/eyasin_picture_ copy.jpg") no-repeat top fixed;
+}

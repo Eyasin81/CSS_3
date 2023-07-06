@@ -1,0 +1,15 @@
+.weight{
+    /* weighy and height property */
+    width: 100px;
+    height: 100px;
+    border:1px solid black;
+    margin: auto;
+    background: lightblue;
+}
+.max-weight{
+    /* weighy and height property */
+    max-width: 100px;
+    border:1px solid black;
+ 
+    background: lightblue;
+}

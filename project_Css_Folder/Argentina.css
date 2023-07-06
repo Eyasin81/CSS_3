@@ -1,0 +1,48 @@
+body{
+    background-color:bisque
+}
+h2{
+ 
+    text-align: center;
+}
+h5{
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.flag{
+    width: 600px;
+    height: 400px;
+    background-color:rgb(108, 172, 228);
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.middle{
+    background: rgb(255, 255, 255);
+    width: 600px;
+    height: 133.33px;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
+h5{
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+
+}

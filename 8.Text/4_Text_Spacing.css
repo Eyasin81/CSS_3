@@ -1,0 +1,18 @@
+
+/*  text-indent
+letter-spacing
+line-height
+word-spacing
+white-space */
+#p1{ 
+    /* লেখা গুলো প্রথম থেকে একটু ডান দিকে সরে যাবে */
+    text-indent: 50px;
+    color:red;
+    /* দুিইটি লেখার দূরত্ব */
+    letter-spacing: 0.5px;
+    /* লাইনের উচ্চতা */
+    line-height: 3ch;
+    /* দুইটি শব্দ দূরত্ব */
+    word-spacing: 1ch;
+
+}

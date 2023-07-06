@@ -1,0 +1,13 @@
+/* <!-- 9.1Font-family:  লেখা গুলোর বিভিন্ন নাম দেওয়া যায়--> */
+#p1{
+    font-family: 'Courier New', Courier, monospace;
+}
+#p1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+#p3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#p4{
+    font-family: Arial, Helvetica, sans-serif;
+}

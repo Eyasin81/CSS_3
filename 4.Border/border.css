@@ -1,0 +1,76 @@
+
+/* border 2nd short code*/
+.div1{
+    /*border-width: short code border-width:2px 4px 5px 6px;
+
+*/
+border-left-width: 2px;
+border-right-width: 4px;
+border-top-width: 5px;
+border-bottom-width: 6px;
+
+ /*Border Style*/
+ /*border-style: short code */
+/* border-style:solid double dotted dashed; */
+border-left-style:solid;
+border-right-style:double;
+border-top-style: dotted;
+border-bottom-style: dashed;
+ /*Border colors*/
+   /*Border colors short codes */
+    /* border-color:black blue green yellow; */
+ border-right-color: black;
+ border-left-color:blue;
+ border-top-color: green;
+ border-bottom-color: yellow;
+
+   /*Border Radius*/
+    /*Border Radius short code*/
+  /*
+   border-radius: 50px 20px;
+   50px 
+    border-top-left-radius: 50px;
+ border-bottom-right-radius: 50px;
+ 20px
+  border-top-right-radius: 20px;
+   border-bottom-left-radius: 20px;
+  */
+   border-top-left-radius: 10%;
+   border-top-right-radius: 20%;
+   border-bottom-left-radius: 4%;
+   border-bottom-right-radius: 10%;
+
+
+}
+/* all css border short code */
+.div3{
+    border-width: 2px 3px 4px 5px ;
+    border-color:yellow blue green orange;
+    border-style:solid dotted double;
+    border-radius: 50px 90px;
+}
+
+
+
+
+.div5{
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(/img/border.png);
+    border-image-repeat: round;
+    border-image-slice: 30;
+    border-image-width: 10%;
+    
+
+}
+.div4{
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(/img/border.png) 30 round;
+    border-image-outset:5px;
+}
+/*border images*/
+/* 
+
+border-imge:url(img/border.png) 30 round;
+*/

@@ -1,0 +1,23 @@
+/*display block ke inline kora
+ */
+h1{
+    text-align: center;
+    background-color: yellow;
+    display: inline;
+}
+h2{
+    text-align: center;
+    background-color:blue;;
+    display: inline;
+}
+#div1{
+    display:inline;
+}
+/* visibility hidden */
+.h2{
+    display: block;
+    visibility:none;
+}
+.h2:hover{
+    visibility: hidden;
+}

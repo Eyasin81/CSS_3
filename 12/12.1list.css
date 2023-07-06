@@ -1,0 +1,20 @@
+/* list-style-type: */
+ol{
+    /* list-style-type: */
+    /* list-style-type: disc; */
+    /* list-style-type:circle; */
+    /* list-style-type:square; */
+    /* list-style-type:lower-alpha; */
+    /* list-style-type:upper-alpha; */
+    /* list-style-type:lower-roman; */
+    /* list-style-type: upper-roman; */
+    /* list-style-type:upper-roman; */
+    /* list-style-image */
+    list-style-image: url(/img/border.png);
+    list-style-position: outside;
+}
+/* short property for list */
+/* list-style:(list-style-position;list-style-type;list-styl-image) */
+ul{
+    list-style: circle;
+}

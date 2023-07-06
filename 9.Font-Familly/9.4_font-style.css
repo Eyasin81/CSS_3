@@ -1,0 +1,19 @@
+h1{
+text-align: center;
+color:blue;
+background-color:yellowgreen
+
+}
+/* font-size:normal/italic/oblique */
+#p1{
+font-style:oblique;
+}
+#p2{
+    font-style:italic;
+ }
+
+ /* font-weight:bold/100/lighter/ */
+ #p4{
+font-weight:bold;
+font-variant:small-caps;
+ }

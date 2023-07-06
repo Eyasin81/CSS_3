@@ -1,0 +1,40 @@
+body{
+    background-color:bisque
+}
+h2{
+ 
+    text-align: center;
+}
+
+.div{
+    width: 600px;
+    height: 400px;
+    background-color:white;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.div1{
+    background: red;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+}
+h5{
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+
+}
+

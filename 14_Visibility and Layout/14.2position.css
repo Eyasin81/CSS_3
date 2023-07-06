@@ -1,0 +1,30 @@
+/* position:static/absulate/ralative/fixed */
+/* position absulate */
+.div1{
+    background: yellow;
+    width: 200px;
+    height: 200px;
+    top: 0;
+    left:0;
+    position:absolute;
+}
+.div3{
+    background: lightblue;
+    width: 200px;
+    height: 200px;
+    /* top,margin */
+    top: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    position:absolute;
+}
+.div2{
+    background:blue;
+    width: 200px;
+    height: 200px;
+    top: 0;
+    right:0;
+    position:absolute;
+}
+

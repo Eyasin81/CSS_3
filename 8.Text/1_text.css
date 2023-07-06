@@ -1,0 +1,54 @@
+
+/* Lesson 8.1 - Text Color
+Lesson 8.2 - Text Alignment
+Lesson 8.3 - Text Decoration
+Lesson 8.4 - Text Transformation
+Lesson 8.5 - Text Spacing
+Lesson 8.6 - Text Shadow */
+
+/* text-color */
+#p1{
+    color:yellow;
+
+}
+/* text-alignment */
+/* text-align:left/right/center/justify */
+#p2{
+    color:yellow;
+    text-align: right;
+
+    
+}
+/* text-alignment last */
+/* text-align-last:left/right/center/justify */
+#p3{
+    color:blue;
+    text-align-last: justify;
+
+    
+}
+/*Text Direction*/
+#p4{
+    direction: rtl;
+  unicode-bidi: bidi-override;
+}
+/* Vertical Alignment */
+img.a {
+    vertical-align: baseline;
+  }
+  
+  img.b {
+    vertical-align: text-top;
+  }
+  
+  img.c {
+    vertical-align: text-bottom;
+  }
+  
+  img.d {
+    vertical-align: sub;
+  }
+  
+  img.e {
+    vertical-align: super;
+  }

@@ -1,0 +1,24 @@
+.outline1{
+    padding-top: 10px;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background:red;
+    border:1px solid blue;
+    /* outline property */
+    outline-color:yellow;
+    outline-width: 4px;
+    outline-style: dotted;
+    outline-offset: 15px;
+}
+.outline2{
+    width: 100px;
+    height: 100px;
+    background:red;
+    border:1px solid blue;
+    /* outline short code*/
+    /* outline:width style color */
+    outline:2px double blue;
+    outline-offset: 15px;
+    padding-left: 10px;
+}

@@ -1,0 +1,47 @@
+/* text-decoration-line
+text-decoration-color
+text-decoration-style
+text-decoration-thickness
+text-decoration */
+
+
+/* text-decoration-line:underline/inline/overline/line-throw              */
+#p1{
+
+    text-decoration-line: underline;
+    text-decoration-color: yellow;
+    text-decoration-style: dotted;
+    text-decoration-thickness:5px;
+    
+}
+#p2{
+
+    text-decoration-line: inline;
+    text-decoration-color:green;
+    text-decoration-style: double;
+    text-decoration-thickness:5px;
+
+
+
+
+}
+#p3{
+
+    text-decoration-line: overline;
+    text-decoration-color: blue;
+    text-decoration-style: dashed;
+    text-decoration-thickness:5px;
+
+
+
+}
+/* short property text-decoration */
+/* text-decoration:
+ text-decoration-line
+  text-decoration-color
+   text-decoration-style
+    text-decoration- */
+
+    #p6{
+        text-decoration:line-through yellow double 5px;
+    }

@@ -1,0 +1,18 @@
+#love{
+    display: block;
+    text-align: center;
+    position: relative;
+    font-size: 100px;
+}
+#love:hover{
+    text-shadow: 2px 2px;
+    animation: alternate;
+    animation-duration: 2s;
+}
+
+#star{
+    display:block;
+    font-size:100px;
+    color:gold;
+    position: relative;
+}
